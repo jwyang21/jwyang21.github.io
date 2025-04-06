@@ -13,7 +13,7 @@ title                    : "Jeewon Yang"
 title_separator          : "-"
 name                     : &name "Jeewon Yang"
 description              : &description "Ph.D. student @ KAIST AI"
-url                      : "https://jwyang21.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://jwy24.blogspot.com/" #"https://jwyang21.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwyang21/jwyang21.github.io"# "academicpages/academicpages.github.io"
 

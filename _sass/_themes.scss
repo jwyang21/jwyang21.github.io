@@ -78,7 +78,7 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-navbar-bg-color: #1a252f;  /* darker version for dark mode */
+  --global-navbar-bg-color: #1a252f; /* darker version for dark mode */
   --global-navbar-text-color: #{v.$white-color};
   --global-bg-color: #{v.$grey-color-dark};
   --global-code-bg-color: #{v.$code-bg-color-dark};

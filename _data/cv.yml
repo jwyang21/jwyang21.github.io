@@ -27,7 +27,7 @@ cv:
         location: Daejeon, South Korea
         url: https://gsai.kaist.ac.kr/
         area: Artificial Intelligence
-        studyType: PhD
+        studyType: Ph.D. Student
         start_date: 2024
         end_date:
         score: ""
@@ -40,6 +40,7 @@ cv:
         location: Seoul, South Korea
         url: https://gsai.snu.ac.kr/
         area: Artificial Intelligence
+        studyType: M.S. Degree
         start_date: 2021
         end_date: 2023
         highlights:
@@ -50,6 +51,7 @@ cv:
         location: Daejeon, South Korea
         url: https://bioeng.kaist.ac.kr/
         area: Bio and Brain Engineering
+        studyType: Bachelor's Degree
         start_date: 2013
         end_date: 2020
         highlights:

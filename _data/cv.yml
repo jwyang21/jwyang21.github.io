@@ -78,7 +78,7 @@ cv:
         start_date: 2023
         end_date: 2023
         highlights:
-          - Augmentation of Korean-English parallel corpus based on  dependency parsing
+          - Augmentation of Korean-English parallel corpus based on dependency parsing
           - Construction of common sense knowledge graph based on events extracted from raw text
           - Data collection and analysis for developing conversational technologies
           - Analysis and process for text data for developing language model and machine translation technologies

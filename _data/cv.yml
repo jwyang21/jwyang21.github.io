@@ -97,6 +97,9 @@ cv:
         url: https://deepbio.co.kr/
         start_date: 2020
         end_date: 2021
+        highlights:
+          - Predicting the risk of disease occurrence based on the health screening data and single nucleotide polymorphism (SNP) data using machine learning
+          - Experiments on knowledge distillation using image data (CIFAR-10 and CIFAR-100) for model compression
 
       - company: Department of Brain and Cognitive Sciences, Seoul National University
         position: Research Intern
@@ -104,6 +107,11 @@ cv:
         url: https://bcs.snu.ac.kr/
         start_date: 2020
         end_date: 2020
+        highlights:
+          - Analyzing MRI image using MATLAB and FreeSurfer
+          - Analyzing electroencephalogram (EEG) data
+          - Conducting EEG tests
+          - Conducting Mini-Mental State Examination (MMSE)
 
     # Volunteer:
     #   - company: People's Climate March

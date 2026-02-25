@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in AI at KAIST, with research interests in Agentic AI, Large Language Models, and AI for Healthcare. I am currently leading a project to develop a conversational agent that answers human questions accurately in real time, requiring efficient long-term memory and rapid information retrieval. I have also led a project predicting cancer patients' survival using three-dimensional (3D) genomic information extracted from DNA methylation data.  
+I am a Ph.D. student in AI at KAIST, with research interests in Agentic AI, Large Language Models, and AI for Healthcare. I am currently leading a project to develop a conversational agent that answers human questions accurately in real time, requiring efficient long-term memory and rapid information retrieval, and have also led a project predicting cancer patients' survival using three-dimensional (3D) genomic information extracted from DNA methylation data.  
 My ultimate goal is to develop AI agents that can converse in a truly human-like manner, which raises fundamental questions about the nature of human communication, the cognitive processes behind it, and how such agents can be meaningfully integrated into healthcare. I hope my work contributes to building a scientific foundation for human-like AI and translating it into real-world impact.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

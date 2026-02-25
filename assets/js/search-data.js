@@ -414,7 +414,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-deep-learning-based-survival-prediction-using-dna-methylation-derived-3d-genomic-information",
           title: 'Deep learning-based survival prediction using DNA methylation-derived 3D genomic information',
-          description: "[Oral] ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2023",
+          description: "[Oral Presentation] ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_ACM-BCB/";
             },},{id: "projects-example",

@@ -429,12 +429,12 @@ ninja.data = [{
               window.location.href = "/teachings/2022_algorithm/";
             },},{id: "teachings-machine-learning-for-healthcare",
           title: 'Machine Learning for Healthcare',
-          description: "Teaching Assistant (TA)",
+          description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2025_ml4h/";
             },},{id: "teachings-programming-for-ai",
           title: 'Programming for AI',
-          description: "Teaching Assistant (TA)",
+          description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2025_pr4ai/";
             },},{

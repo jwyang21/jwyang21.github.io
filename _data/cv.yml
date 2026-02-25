@@ -147,7 +147,7 @@ cv:
         authors:
           - Kweon, Sunjun, et al.
         publisher: Advances in Neural Information Processing Systems (NeurIPS)
-        releaseDate: 2024
+        releaseDate: 2024-02-25
         url: https://neurips.cc/virtual/2024/poster/97643
         summary:
         abbr: "NeurIPS"
@@ -156,7 +156,7 @@ cv:
         authors:
           - Yag, Jeewon, et al.
         publisher: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)
-        releaseDate: 2023
+        releaseDate: 2023-10-10
         url: https://dl.acm.org/doi/10.1145/3584371.3612966
         summary:
         abbr: "ACM-BCB"
@@ -165,7 +165,7 @@ cv:
         authors:
           - Lee, Dohoon, et al.
         publisher: PLOS Computational Biology
-        releaseDate: 2023
+        releaseDate: 2023-03-20
         url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010946
         summary:
         abbr: PLoS Comp Bio
@@ -174,7 +174,7 @@ cv:
         authors:
           - Lee, Dohoon, et al.
         publisher: Nature Communications
-        releaseDate: 2022
+        releaseDate: 2022-11-05
         url: https://www.nature.com/articles/s41467-022-34152-5
         summary:
         abbr: Nat. Commun.

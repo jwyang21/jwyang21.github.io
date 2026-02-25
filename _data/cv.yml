@@ -150,6 +150,7 @@ cv:
         releaseDate:
         url: https://neurips.cc/virtual/2024/poster/97643
         summary:
+        abbr: "NeurIPS"
 
       - title: Deep learning-based survival prediction using DNA methylation-derived 3D genomic information
         authors:
@@ -158,6 +159,7 @@ cv:
         releaseDate:
         url: https://dl.acm.org/doi/10.1145/3584371.3612966
         summary:
+        abbr: "ACM-BCB"
 
       - title: "Metheor: Ultrafast DNA methylation heterogeneity calculation from bisulfite read alignments"
         authors:
@@ -166,6 +168,7 @@ cv:
         releaseDate:
         url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010946
         summary:
+        abbr: PLoS Comp Bio
 
       - title: "Learning the histone codes with large genomic windows and three-dimensional chromatin interactions using transformer"
         authors:
@@ -174,6 +177,7 @@ cv:
         releaseDate:
         url: https://www.nature.com/articles/s41467-022-34152-5
         summary:
+        abbr: Nat. Commun.
 
     # Skills:
     #   - name: Physics

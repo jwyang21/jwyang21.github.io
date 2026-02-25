@@ -70,8 +70,8 @@ cv:
           - Image segmentation utilizing Segment Anything Model (SAM)
           - Attempts to accurately measure the earthwork volume through image segmentation of satellite images of construction sites
 
-      - company: NLP NCSOFT
-        position: Research Intern
+      - company: NCSOFT
+        position: NLP Research Intern
         location: Pangyo, South Korea
         url: https://www.nc.com/?locale=en-EN
         area: Natural Language Processing

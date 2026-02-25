@@ -4,7 +4,7 @@ cv:
   email: jwy24@kaist.ac.kr
   location: Seongnam, South Korea
   image: assets/img/prof_pic.jpg
-  summary: A Ph.D. student interested in Agentic AI.
+  summary:
 
   social_networks:
     - network: GitHub

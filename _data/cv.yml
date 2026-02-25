@@ -3,187 +3,216 @@ cv:
   label: Ph.D. student @ KAIST AI
   email: jwy24@kaist.ac.kr
   location: Seongnam, South Korea
-  image: ""
+  image: assets/img/prof_pic.jpg
   summary: A Ph.D. student interested in Agentic AI.
 
   social_networks:
-    - network: X
-      username: jeewon_y
     - network: GitHub
       username: jwyang21
     - network: LinkedIn
       username: jeewon-yang
+    - network: X
+      username: jeewon_y
 
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
+  address:
+    street:
+    city: Seongnam
+    region: South Korea
+    postalCode:
+    countryCode:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: KAIST
+        location: Daejeon, South Korea
+        url: https://gsai.kaist.ac.kr/
+        area: Artificial Intelligence
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2024
+        end_date:
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          # - Description 1.
+          # - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Seoul National University
+        location: Seoul, South Korea
+        url: https://gsai.snu.ac.kr/
+        area: Artificial Intelligence
+        start_date: 2021
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          # - Description 1.
+          # - Description 2.
+
+      - institution: KAIST
+        location: Daejeon, South Korea
+        url: https://bioeng.kaist.ac.kr/
+        area: Bio and Brain Engineering
+        start_date: 2013
+        end_date: 2020
+        highlights:
+          # - Description 1.
+          # - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Meissa Planet
+        position: AI Research Intern
+        location: Seoul, South Korea
+        url: https://www.meissa.ai/en/planet
+        area: Image Segmentation
+        start_date: 2023
+        end_date: 2024
         highlights:
-          - Relativity
-          - Description 2.
+          - Image segmentation utilizing Segment Anything Model (SAM)
+          - Attempts to accurately measure the earthwork volume through image segmentation of satellite images of construction sites
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: NCSOFT
+        position: Research Intern
+        location: Pangyo, South Korea
+        url: https://www.nc.com/?locale=en-EN
+        area: Natural Language Processing
+        start_date: 2023
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - Augmentation of Korean-English parallel corpus based on  dependency parsing
+          - Construction of common sense knowledge graph based on events extracted from raw text
+          - Data collection and analysis for developing conversational technologies
+          - Analysis and process for text data for developing language model and machine translation technologies
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Bio-MAX Institute, Seoul National University
+        position: Research Intern
+        location: Seoul, South Korea
+        url: https://bio-max.snu.ac.kr/
+        start_date: 2021
+        end_date: 2021
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Analyzing multi-omics data
+          - Reproducing a paper on how to use machine learning for quantitative assessment on the degree of oncogenic de-differentiation
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Deep Bio
+        position: Machine Learning Engineer
+        location: Seoul, South Korea
+        url: https://deepbio.co.kr/
+        start_date: 2020
+        end_date: 2021
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Department of Brain and Cognitive Sciences, Seoul National University
+        position: Research Intern
+        location: Seoul, South Korea
+        url: https://bcs.snu.ac.kr/
+        start_date: 2020
+        end_date: 2020
+
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
+
+    # Awards:
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+    #   - title: Max Planck Medal
+    #     authors:
+    #       - "German Physical Society"
+    #     date: 2029
+    #     awarder: German Physical Society
+    #     summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "EHRNoteQA: An LLM Benchmark for Real-World Clinical Practice Using Discharge Summaries"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Kweon, Sunjun, et al.
+        publisher: Advances in Neural Information Processing Systems (NeurIPS)
+        releaseDate:
+        url: https://neurips.cc/virtual/2024/poster/97643
+        summary:
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Deep learning-based survival prediction using DNA methylation-derived 3D genomic information
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Yag, Jeewon, et al.
+        publisher: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)
+        releaseDate:
+        url: https://dl.acm.org/doi/10.1145/3584371.3612966
+        summary:
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Metheor: Ultrafast DNA methylation heterogeneity calculation from bisulfite read alignments"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Lee, Dohoon, et al.
+        publisher: PLOS Computational Biology
+        releaseDate:
+        url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010946
+        summary:
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Learning the histone codes with large genomic windows and three-dimensional chromatin interactions using transformer"
+        authors:
+          - Lee, Dohoon, et al.
+        publisher: Nature Communications
+        releaseDate:
+        url: https://www.nature.com/articles/s41467-022-34152-5
+        summary:
+
+    # Skills:
+    #   - name: Physics
+    #     level: Master
+    #     icon: fa-solid fa-hashtag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Korean
+        summary: "Native"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    # Interests:
+    #   - name: Physics
+    #     icon: fa-solid fa-tag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.

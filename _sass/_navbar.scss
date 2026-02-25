@@ -24,12 +24,8 @@
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
-    color: v.$white-color;
+    color: var(--global-text-color);
   }
-
-  // a:not(.active) {
-  //   color: var(--global-text-color);
-  // }
 
   a:hover {
     color: var(--global-hover-color);
@@ -67,11 +63,11 @@
   }
 
   .navbar-brand {
-    color: v.$blue-color-dark;
+    color: var(--global-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: v.$blue-color-dark;
+    color: var(--global-text-color);
 
     &:hover {
       color: var(--global-hover-color);

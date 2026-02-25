@@ -70,7 +70,7 @@ cv:
           - Image segmentation utilizing Segment Anything Model (SAM)
           - Attempts to accurately measure the earthwork volume through image segmentation of satellite images of construction sites
 
-      - company: NCSOFT
+      - company: NLP NCSOFT
         position: Research Intern
         location: Pangyo, South Korea
         url: https://www.nc.com/?locale=en-EN
@@ -84,7 +84,7 @@ cv:
           - Analysis and process for text data for developing language model and machine translation technologies
 
       - company: Bio-MAX Institute, Seoul National University
-        position: Research Intern
+        position: Bioinformatics Research Intern
         location: Seoul, South Korea
         url: https://bio-max.snu.ac.kr/
         start_date: 2021
@@ -104,7 +104,7 @@ cv:
           - Experiments on knowledge distillation using image data (CIFAR-10 and CIFAR-100) for model compression
 
       - company: Department of Brain and Cognitive Sciences, Seoul National University
-        position: Research Intern
+        position: Student Intern
         location: Seoul, South Korea
         url: https://bcs.snu.ac.kr/
         start_date: 2020

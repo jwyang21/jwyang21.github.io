@@ -7,13 +7,13 @@
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: #1a252f !important;
+  background-color: var(--global-bg-color);
   opacity: 0.95;
 }
 
 .navbar .dropdown-menu,
 .btn-group.dropdown .dropdown-menu {
-  background-color: #{v.$dark-navy-color};
+  background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
@@ -34,7 +34,7 @@
 
   &:hover {
     color: var(--global-hover-color);
-    background-color: #{v.$dark-navy-color};
+    background-color: var(--global-bg-color);
   }
 }
 
@@ -49,12 +49,18 @@
 }
 
 .navbar.navbar-light {
+  a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
   .navbar-brand {
-    color: white; /* ← was var(--global-text-color) */
+    color: var(--global-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: white; /* ← was var(--global-text-color) */
+    color: var(--global-text-color);
 
     &:hover {
       color: var(--global-hover-color);

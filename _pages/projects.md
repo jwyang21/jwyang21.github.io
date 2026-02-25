@@ -6,7 +6,7 @@ description: Collection of the projects I've participated in.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

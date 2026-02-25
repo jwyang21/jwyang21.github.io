@@ -7,7 +7,7 @@
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: v.$dark-navy-color;
+  background-color: v.$blue-color-dark;
   opacity: 0.95;
 }
 
@@ -24,8 +24,12 @@
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
-    color: var(--global-text-color);
+    color: v.$white-color;
   }
+
+  // a:not(.active) {
+  //   color: var(--global-text-color);
+  // }
 
   a:hover {
     color: var(--global-hover-color);
@@ -63,11 +67,11 @@
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: v.$blue-color-dark;
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: v.$blue-color-dark;
 
     &:hover {
       color: var(--global-hover-color);

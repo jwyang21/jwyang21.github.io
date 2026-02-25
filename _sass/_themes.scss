@@ -6,7 +6,7 @@
 
 :root {
   color-scheme: light;
-  --global-navbar-bg-color: #354f7a;
+  --global-navbar-bg-color: #{v.$light-navy-color};
   --global-navbar-text-color: #{v.$white-color};
   --global-bg-color: #{v.$white-color};
   --global-code-bg-color: #{v.$code-bg-color-light};
@@ -78,7 +78,7 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-navbar-bg-color: #1a252f; /* darker version for dark mode */
+  --global-navbar-bg-color: #{v.$dark-navy-color}; /* darker version for dark mode */
   --global-navbar-text-color: #{v.$white-color};
   --global-bg-color: #{v.$grey-color-dark};
   --global-code-bg-color: #{v.$code-bg-color-dark};

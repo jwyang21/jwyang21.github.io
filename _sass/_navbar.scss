@@ -7,7 +7,7 @@
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--dark-navy-color);
   opacity: 0.95;
 }
 
@@ -49,18 +49,12 @@
 }
 
 .navbar.navbar-light {
-  a {
-    &:hover {
-      text-decoration: none;
-    }
-  }
-
   .navbar-brand {
-    color: var(--global-text-color);
+    color: white; /* ← was var(--global-text-color) */
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: white; /* ← was var(--global-text-color) */
 
     &:hover {
       color: var(--global-hover-color);

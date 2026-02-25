@@ -2,7 +2,7 @@
 layout: page
 title: Deep learning-based survival prediction using DNA methylation-derived 3D genomic information
 description: "[Oral Presentation] ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2023"
-img: /assets/img/project/2023_ACM-BCB.png
+img: assets/img/project/2023_ACM-BCB.png
 importance: 3
 category: work
 ---

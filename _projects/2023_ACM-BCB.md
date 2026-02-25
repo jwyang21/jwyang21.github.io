@@ -2,7 +2,7 @@
 layout: page
 title: Deep learning-based survival prediction using DNA methylation-derived 3D genomic information
 description: "[Oral] ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2023"
-img: /assets/img/proj/2023_ACM-BCB.jpg
+img: /assets/img/project/2023_ACM-BCB.png
 importance: 3
 category: work
 ---
@@ -11,7 +11,7 @@ Three-dimensional (3D) genome states are closely related to cancerdevelopment. N
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj/2023_ACM-BCB.jpg" title="Overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/2023_ACM-BCB.png" title="Overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

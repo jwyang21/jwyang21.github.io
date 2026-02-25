@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "Collection of the projects I&#39;ve participated in.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -424,7 +424,7 @@ ninja.data = [{
               window.location.href = "/projects/example/";
             },},{id: "teachings-algorithm",
           title: 'Algorithm',
-          description: "",
+          description: "Teaching Assistant (TA)",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2022_algorithm/";
             },},{id: "teachings-machine-learning-for-healthcare",
